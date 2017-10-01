@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<style type="text/css">
+		html, body, h1, h2, h3, p, ol, ul, li, a {
+			padding: 0;
+			border: 0;
+			margin: 0;
+		}
+		h1 {color:#0000FF;}
+	</style>
+</head>
+
+<body>
+<ul>
+	<li><a href="index.html">Home</a></li>
+	<li><a href="Level_1">Level 1: Front-end Foundations</a></li>
+	<li><a href="Level_2">Level 2</a></li>
+	<li><a href="Level_3">Level 3</a></li>
+</ul>
+	<h1>Level 2: CSS</h1>
+	<p>We are learning:</p>
+		<ul>
+			<li>Selectors</li>
+			<li>Using "style type= in Head tags to assign selectors</li>
+			<li>Changing Colors</li>
+			<li>Changing Font Size</li>
+			<li>Hexadecimal Colors</li>
+			<li>Shades of Gray</li>
+			<li>The Box Model: Content Area, Padding, Boarder, Margin</li>
+			<li>Reset Browser Defaults</li>
+		</ul>
+
+</body>
+</html>
